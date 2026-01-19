@@ -103,7 +103,7 @@ export default {
                         Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
                     </p>
                     <p>
-                        If a levl on the challenge list gets rated, it will stay on the list
+                        If a level on the challenge list gets rated, it will stay on the list
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID and name before you submit a record
