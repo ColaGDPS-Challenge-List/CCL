@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+         {
+            "user": "zNova",
+            "link": "https://youtube.com/shorts/H_WjCPdIxvs?si=Ai3c4vzJwL4p19R3",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
